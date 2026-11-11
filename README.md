@@ -1,4 +1,4 @@
-<img width="300" height="550" alt="Simulator Screenshot - iPhone 14 Pro - 2026-11-11 at 18 58 03" src="https://github.com/user-attachments/assets/2a71184a-179d-4a83-9f1f-7a242fbc1ae6" />
+
 # FacebookMe iOS App 📱
 
 A Facebook-inspired social media application built for iOS using Swift and UIKit. This project focuses on creating a user-friendly social networking experience with a clean interface and essential social media features.
@@ -20,6 +20,8 @@ A Facebook-inspired social media application built for iOS using Swift and UIKit
 - Xcode
 
 ## 📸 Screenshots
+
+<img width="300" height="600" alt="Simulator Screenshot - iPhone 14 Pro - 2026-11-11 at 18 58 03" src="https://github.com/user-attachments/assets/2a71184a-179d-4a83-9f1f-7a242fbc1ae6" />
 
   <img width="330" height="600" alt="Simulator Screenshot - iPhone 14 Pro - 2026-10-20 at 18 49 03" src="https://github.com/user-attachments/assets/1f7ddc9c-7070-494d-a7d6-09f4a84d9f76" />
 
